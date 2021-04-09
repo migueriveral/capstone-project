@@ -1,3 +1,7 @@
+#CAPSTONE-PROJECT (for Scrimba)
+
+This is the final project for "The React Bootcamp" course in https://www.scrimba.com/, by Bob Ziroll.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
