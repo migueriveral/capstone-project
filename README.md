@@ -1,4 +1,4 @@
-#CAPSTONE-PROJECT (for Scrimba)
+# CAPSTONE-PROJECT (for Scrimba)
 
 This is the final project for "The React Bootcamp" course in https://www.scrimba.com/, by Bob Ziroll.
 
